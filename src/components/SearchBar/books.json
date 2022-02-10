@@ -1,0 +1,128 @@
+[
+    {
+    "id": "0001",
+    "name": "Стив Джобс",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41dKkez-1rL._SX326_BO1,204,203,200_.jpg",
+    "author": "Уолтер Айзексон",
+    "url": "https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537"
+    },
+    {
+    "id": "0002",
+    "name": "От нуля до одного",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/4137OkbPQ4L._SX331_BO1,204,203,200_.jpg",
+    "author": "Питер Тиль, Блейк Мастерс",
+    "url": "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296"
+    },
+    {
+    "id": "0003",
+    "name": "Прагматичный программист",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg",
+    "author": "Дэвид Томас, Эндрю Хант",
+    "url": "https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052"
+    },
+    {
+    "id": "0004",
+    "name": "Проект 'Единорог'",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51A4T36jisL._SX334_BO1,204,203,200_.jpg",
+    "author": "Джин Ким",
+    "url": "https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762"
+    },
+    {
+    "id": "0005",
+    "name": "Страстный программист",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51m3yzmDFCL._SX331_BO1,204,203,200_.jpg",
+    "author": "Чад Фаулер",
+    "url": "https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U"
+    },
+    {
+    "id": "0006",
+    "name": "Hatching Twitter",
+    "image": "https://m.media-amazon.com/images/I/51YUkI5ZQ-L.jpg",
+    "author": "Nick Bilton",
+    "url": "https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal-ebook/dp/B00CDUVSQ0"
+    },
+    {
+    "id": "0007",
+    "name": "How Google Works",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31Xc+yFta0L._SX327_BO1,204,203,200_.jpg",
+    "author": "Eric Schmidt, Jonathan Rosenberg",
+    "url": "https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328"
+    },
+    {
+    "id": "0008",
+    "name": "Elon Musk",
+    "image": "https://m.media-amazon.com/images/I/51tw6UjHpDL.jpg",
+    "author": "Ashlee Vance",
+    "url": "https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS"
+    },
+    {
+    "id": "0009",
+    "name": "Six Easy Pieces",
+    "image": "https://m.media-amazon.com/images/I/51E53HCUKVL.jpg",
+    "author": "Richard P. Feynman",
+    "url": "https://www.amazon.com/Six-Easy-Pieces-Essentials-Explained-ebook/dp/B004OVEYNU"
+    },
+    {
+    "id": "0010",
+    "name": "Sapiens",
+    "image": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg",
+    "author": "Yuval Noah Harari",
+    "url": "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A"
+    },
+    {
+    "id": "0011",
+    "name": "Сила воли",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-z/wc1200/6064794707.jpg",
+    "author": "Келли Макгонигал",
+    "url": "https://www.ozon.ru/product/sila-voli-kak-razvit-i-ukrepit-makgonigal-kelli-249171886/?gclid=EAIaIQobChMIqPiW1s7X9QIVwqOyCh1wXgNHEAQYASABEgIdIfD_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0012",
+    "name": "Пиши в блог как Бог",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-s/wc1200/6190108828.jpg",
+    "author": "Елена Сахарова",
+    "url": "https://www.ozon.ru/product/pishi-v-blog-kak-bog-kak-nachat-i-ne-brosit-438402447/?gclid=EAIaIQobChMIzfSS-c_X9QIVAwB7Ch1nWQlvEAQYASABEgKgx_D_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0013",
+    "name": "Дюна",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-i/wc1200/6101690010.jpg",
+    "author": "Френк Герберт",
+    "url": "https://www.ozon.ru/product/dyuna-gerbert-frenk-250791917/?gclid=EAIaIQobChMImM2F9tDX9QIVWhV7Ch08Xw6CEAQYASABEgLJRvD_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0014",
+    "name": "Сталь и солнечный шторм",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-z/wc1200/6107904383.jpg",
+    "author": "Лебовски Редгрейн",
+    "url": "https://www.ozon.ru/product/stal-i-solnechnyy-shtorm-lebovski-redgreyn-294824002/?gclid=EAIaIQobChMIgZSmpdHX9QIVTdiyCh1qWgiHEAQYASABEgJhVvD_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0015",
+    "name": "Гормоны счастья",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-e/wc1200/6064792778.jpg",
+    "author": "Лоретта Грациано Бройнинг",
+    "url": "https://www.ozon.ru/product/gormony-schastya-kak-priuchit-mozg-vyrabatyvat-serotonin-dofamin-endorfin-i-oksitotsin-137729684/?gclid=EAIaIQobChMIzbrK6dHX9QIVgUCRBR3CzwrREAQYASABEgLgE_D_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0016",
+    "name": "Практический интеллект",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-u/wc1200/6118348734.jpg",
+    "author": "Патрик Кинг",
+    "url": "https://www.ozon.ru/product/prakticheskiy-intellekt-kak-kriticheski-myslit-modelirovat-situatsii-gluboko-analizirovat-i-nikogda-336478522/?gclid=EAIaIQobChMI09r9q9LX9QIVjrmyCh0NqQZOEAQYASABEgLfqfD_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0017",
+    "name": "Женщина, у которой есть план",
+    "image": "https://cdn1.ozone.ru/s3/multimedia-u/wc1200/6210129510.jpg",
+    "author": "Мэй Маск",
+    "url": "https://www.ozon.ru/product/zhenshchina-u-kotoroy-est-plan-450413892/?gclid=EAIaIQobChMIicrLj9PX9QIVA9KyCh1Kjw_oEAQYASABEgK9qvD_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    },
+    {
+    "id": "0018",
+    "name": "Подсознание может всё!",
+    "image": "https://cdn1.ozone.ru/multimedia/wc1200/1027833789.jpg",
+    "author": "Джон Кехо",
+    "url": "https://www.ozon.ru/product/podsoznanie-mozhet-vse-17574992/?gclid=EAIaIQobChMIuu-2vNPX9QIVYkaRBR2YrwUxEAQYASABEgLZhfD_BwE&sh=30Qz3gAAAA&utm_campaign=RF_Product_Shopping_Books_newclients_all_SSC&utm_medium=cpc&utm_source=google"
+    }
+]
